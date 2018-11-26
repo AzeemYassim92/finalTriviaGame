@@ -1,4 +1,3 @@
-## :fire: Front-end Code Questions :fire:
 
 Project for Rutgers Coding Bootcamp 
 
@@ -8,6 +7,3 @@ This is like a Trivia Game.
 
 The Frontend uses HTML, CSS and JavaScript and jQuery.
 
-### License
-
-MIT
